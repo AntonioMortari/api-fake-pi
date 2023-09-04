@@ -402,24 +402,16 @@
   ],
   "users": [
     {
-      "name": "Lívia",
-      "lastName": "Ávila",
-      "email": "hail.ahlevo@gmail.com",
-      "password": "Mugiwara1*",
-      "password2": "Mugiwara1*",
-      "publications": [],
+      "name": "Teste",
+      "lastName": "App",
+      "email": "teste123@gmail.com",
+      "password": "teste123",
+      "password2": "teste123",
+      "publications": [
+        
+      ],
       "favorites": [],
-      "id": 2
-    },
-    {
-      "name": "Antonio",
-      "lastName": "Mortari",
-      "email": "antoniomortari09@gmail.com",
-      "password": "30030522",
-      "password2": "30030522",
-      "publications": [],
-      "favorites": [],
-      "id": 4
+      "id": 5
     },
     {
       "name": "Matheus",
